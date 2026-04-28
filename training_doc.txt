@@ -1,1 +1,2 @@
 Line 1: Base setup
+Line 2: New module content added
